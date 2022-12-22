@@ -1,0 +1,44 @@
+# site settings
+title: Azariah's Portfolio
+#subtitle:
+email: robinaay@uni.edu or azariah.robinson@yahoo.com
+description: Portfilio of my work for those that are intrested
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: robinborn.github.io/site-demo
+author: Azariah Robinson
+#street_address:
+city: Cedar Falls
+state: IA
+zip_code: 50613
+country: United States of America
+phone: (319) 981-2064
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/andrewbanchich
+  GitLab:
+  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Twitter: https://twitter.com/andrewbanchich
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
