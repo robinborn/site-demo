@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Case Study Project
+layout: Case Study Project
+description: 'A project where we chose an industrial component and planned out the full process for mass production.We had to make a process planning report and presentation and present it to the class'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,20 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>The Total Process The Group Had To Do</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Interpret the engineering drawing, and preliminary analysis from the process planning point of view
+			
+			Create a part drawing 
+			
+			Find all the Manufacturing Requirements & Drawing Interpretation
+			
+			Critical Processing Factors
+		
+		Evaluative report of the material for the part 
+			
+			PRIMA Matrix Evaluation
+</p>
 	</div>
 </section>
 
@@ -28,9 +39,21 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Proicess planning & Selections</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Selection the process used for the primary process and machine tools used
+					
+					Process Planning Sheet
+				Identify the machining operations, intermediate dimensions and sequence them.
+					
+				Selection of the cutting tools used for machining the part.
+					
+				Selection of the work holding devices used for machining the part.
+					
+					Cutting Tool Selection and Work Holding Devices
+					
+				Selection of the cutting process parameters used for machining the part	
+</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +67,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Cost/h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+		 	<p>Prepare the total costing of the part manufacture., 
+				Metal Costs
+ 				Labor Costs 
+				Total Cost
+				Cost per Part
+				.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +88,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Final steps</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Prepare the complete process planning documentation
+				Make a Conclusion
+					.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -75,9 +105,19 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>My specfic steps</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>I was assigned to the Process planning sheet and section and also helped with finding the total costing. Process planning is the process of Identifying the methods used to produce a given part. It is a plan of manufacturing the product with information taken directly from the product design. This would be a task normally done by the process engineers. The processes I had to do are listed below. 
+
+	Determine the basic manufacturing process
+	Determine the order or sequence of operations necessary to manufacture in terms of operation routing, process details and process pictures
+	Specify production tolerances on blanks and on auxiliary surfaces
+	Specify the methods and means of inspection depending upon the accuracy desired
+	Specify the process parameters for the various manufacturing operations selected
+	Determine and order tooling and inspection gauges required to manufacture the part
+	Determine and select the equipment needed to manufacture the part.
+	Providing the necessary documentation to be used by the shop people.
+</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
